@@ -25,7 +25,6 @@
 * Explore Jetpack Compose, Android's Declarative UI Kit
 * Explore areas in Artifical Intelligence such as Computer Vision and Machine Learning
 * Explore development using a Raspberry Pi 
-# Contact
 
 <!--
 **jyorien/jyorien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
