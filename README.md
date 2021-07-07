@@ -1,6 +1,8 @@
 # 🌼 About Me 🌼
-* Currently learning Android and Flutter Development
-* Interested in data analytics and mobile app development, as well as anything to do with software development
+* My niche is mobile app development in Native Android
+* Works on Native Android & Flutter
+* Interested in software development
+* Aspires to create meaningful software that will help the disadvantaged
 * Full-Time Student pursuing a Diploma in Information Technology
 
 # 🍄 Recent Activity 🍄
@@ -22,10 +24,11 @@
   * Explored the use of SQLite database with Room
 
 # 💮 In the near future I hope to.. 💮
-* Explore Jetpack Compose, Android's Declarative UI Kit
-* Explore areas in Artifical Intelligence such as Computer Vision and Machine Learning
-* Explore web development in React
 * Explore Spring Boot
+* Explore web development in React
+* Explore areas in Artifical Intelligence such as Computer Vision and Machine Learning
+* Explore Jetpack Compose, Android's Declarative UI Kit
+
 
 <!--
 **jyorien/jyorien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
