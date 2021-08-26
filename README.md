@@ -2,11 +2,11 @@
 * My niche is mobile app development in Native Android
 * Works on Native Android & Flutter
 * Interested in software development
-* Aspires to create meaningful software that will help the disadvantaged
+* Aspires to create meaningful software that will help people
 * Full-Time Student pursuing a Diploma in Information Technology
 
 # 🍄 Recent Activity 🍄
-* Currently working on a fitness tracking app in Android & Flutter that uses a mobile phone's in-built sensors
+* Currently building a few apps in Android and Flutter
 
 # 🌻 Projects I've worked on 🌻
 * Whisper - a music streaming app
@@ -18,12 +18,21 @@
 * EatLah - restaurant review website
   * Made in HTML, CSS and Vanilla JS
   * Used a local hosted MySQL database with a NodeJS backend
+  
 * Lyrics Generator
   * Android app developed in Kotlin
   * Explored Android Jetpack components such as Navigation and ViewModel
   * Explored the use of SQLite database with Room
 
+* RunLah
+  * Run tracking app
+  * Developed 2 versions in Android Kotlin and Flutter
+  * Used Android sensors such as GPS, Step Counter, Orientation, Light, Camera
+  * Integrated with Google Sign In, Firebase Authentication, Firestore and Storage
+  * Used MPAndroidChart for Android, fl_chart for Flutter
+  
 # 💮 In the near future I hope to.. 💮
+* Take an AWS Certification
 * Explore Spring Boot
 * Explore web development in React
 * Explore areas in Artifical Intelligence such as Computer Vision and Machine Learning
