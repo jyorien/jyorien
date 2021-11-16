@@ -6,7 +6,7 @@
 * Full-Time Student pursuing a Diploma in Information Technology
 
 # 🍄 Recent Activity 🍄
-* Currently building a few apps in Android and Flutter
+* Currently learning Compose!
 
 # 🌻 Projects I've worked on 🌻
 * Whisper - a music streaming app
@@ -34,9 +34,6 @@
 # 💮 In the near future I hope to.. 💮
 * Take an AWS Certification
 * Explore Spring Boot
-* Explore web development in React
-* Explore areas in Artifical Intelligence such as Computer Vision and Machine Learning
-* Explore Jetpack Compose, Android's Declarative UI Kit
 
 
 <!--
