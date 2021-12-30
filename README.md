@@ -9,27 +9,35 @@
 * Currently learning Compose!
 
 # 🌻 Projects I've worked on 🌻
-* Whisper - a music streaming app
-  * This was my first Android project done in Java
-  * Learnt about the Android SDK as well as the componenets of an Android app 
-  * Explored the use of foreground services
-  * Explored the use of Firebase services, such as Authentication and Real-Time Database
-
-* EatLah - restaurant review website
-  * Made in HTML, CSS and Vanilla JS
-  * Used a local hosted MySQL database with a NodeJS backend
+* Laze
+  * An experiment with Jetpack Compose
+  * A fusion between TikTok and Carousell -- but for errands. 
+  * For lazy people, from a lazy person. 
+  * Swipe up to scroll to next errand
+  * Chat with the person that posted the errand
+  * CameraX API used for the camera
   
-* Lyrics Generator
-  * Android app developed in Kotlin
-  * Explored Android Jetpack components such as Navigation and ViewModel
-  * Explored the use of SQLite database with Room
-
 * RunLah
   * Run tracking app
   * Developed 2 versions in Android Kotlin and Flutter
   * Used Android sensors such as GPS, Step Counter, Orientation, Light, Camera
   * Integrated with Google Sign In, Firebase Authentication, Firestore and Storage
   * Used MPAndroidChart for Android, fl_chart for Flutter
+  
+* Lyrics Generator
+  * Android app developed in Kotlin
+  * Explored Android Jetpack components such as Navigation and ViewModel
+  * Explored the use of SQLite database with Room
+
+* EatLah - restaurant review website
+  * Made in HTML, CSS and Vanilla JS
+  * Used a local hosted MySQL database with a NodeJS backend
+
+* Whisper - a music streaming app
+  * This was my first Android project done in Java
+  * Learnt about the Android SDK as well as the componenets of an Android app 
+  * Explored the use of foreground services
+  * Explored the use of Firebase services, such as Authentication and Real-Time Database
   
 # 💮 In the near future I hope to.. 💮
 * Take an AWS Certification
