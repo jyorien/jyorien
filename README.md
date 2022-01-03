@@ -1,12 +1,11 @@
 # 🌼 About Me 🌼
 * My niche is mobile app development in Native Android
-* Works on Native Android & Flutter
 * Interested in software development
 * Aspires to create meaningful software that will help people
 * Full-Time Student pursuing a Diploma in Information Technology
 
 # 🍄 Recent Activity 🍄
-* Currently learning Compose!
+* Currently building random things :)
 
 # 🌻 Projects I've worked on 🌻
 * Laze
