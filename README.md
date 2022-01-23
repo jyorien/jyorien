@@ -8,13 +8,14 @@
 * Currently building random things :)
 
 # 🌻 Projects I've worked on 🌻
-* GitCat
+* [GitCat](https://github.com/jyorien/GitCat) 
   * An app to feed your GitHub commits to GitCat
   * GitHub integration via web login and backlinking
   * Worked with animation in Android to make a cat sprite move around the screen
-  * Purchase items and give them to GitCat to see her sit down and give you a heart :heart:
+  * Purchase items and give them to GitCat to see her sit down and give you a heart :heart: 
+ 
   
-* Laze
+* [Laze](https://github.com/jyorien/Laze)
   * An experiment with Jetpack Compose
   * A fusion between TikTok and Carousell -- but for errands. 
   * For lazy people, from a lazy person. 
@@ -22,27 +23,27 @@
   * Chat with the person that posted the errand
   * CameraX API used for the camera
   
-* RunLah
+  
+* [RunLah](https://github.com/jyorien/RunLah)
   * Run tracking app
   * Developed 2 versions in Android Kotlin and Flutter
   * Used Android sensors such as GPS, Step Counter, Orientation, Light, Camera
   * Integrated with Google Sign In, Firebase Authentication, Firestore and Storage
   * Used MPAndroidChart for Android, fl_chart for Flutter
   
-* Lyrics Generator
+  
+* [Lyrics Generator](https://github.com/jyorien/Lyrics-Generator)
   * Android app developed in Kotlin
   * Explored Android Jetpack components such as Navigation and ViewModel
-  * Explored the use of SQLite database with Room
+  * Explored the use of SQLite database with Room 
+  
 
-* EatLah - restaurant review website
-  * Made in HTML, CSS and Vanilla JS
-  * Used a local hosted MySQL database with a NodeJS backend
-
-* Whisper - a music streaming app
+* [Whisper - a music streaming app](https://github.com/jyorien/Whisper)
   * This was my first Android project done in Java
   * Learnt about the Android SDK as well as the componenets of an Android app 
   * Explored the use of foreground services
-  * Explored the use of Firebase services, such as Authentication and Real-Time Database
+  * Explored the use of Firebase services, such as Authentication and Real-Time Database 
+  
   
 # 💮 In the near future I hope to.. 💮
 * Take an AWS Certification
