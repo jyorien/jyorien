@@ -8,6 +8,12 @@
 * Currently building random things :)
 
 # 🌻 Projects I've worked on 🌻
+* GitCat
+  * An app to feed your GitHub commits to GitCat
+  * GitHub integration via web login and backlinking
+  * Worked with animation in Android to make a cat sprite move around the screen
+  * Purchase items and give them to GitCat to see her sit down and give you a heart :heart:
+  
 * Laze
   * An experiment with Jetpack Compose
   * A fusion between TikTok and Carousell -- but for errands. 
