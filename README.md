@@ -4,6 +4,9 @@
 * Aspires to create meaningful software that will help people
 * Full-Time Student pursuing a Diploma in Information Technology
 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jyorien&hide=javascript,css,scss,html&theme=tokyonight)
+
+
 # 🍄 Recent Activity 🍄
 * Currently building random things :)
 
@@ -36,8 +39,6 @@
   
 # 💮 In the near future I hope to.. 💮
 * Take an AWS Certification
-* Explore Spring Boot
-
 
 <!--
 **jyorien/jyorien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
