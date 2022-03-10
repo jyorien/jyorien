@@ -37,8 +37,7 @@
   * Explored the use of SQLite database with Room 
   
 # 💮 In the near future I hope to.. 💮
-* Take an AWS Certification
-
+* Pass the AWS Certified Developer - Associate certification
 <!--
 **jyorien/jyorien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
