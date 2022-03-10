@@ -1,7 +1,5 @@
 # 🌼 About Me 🌼
-* My niche is mobile app development in Native Android
-* Interested in software development
-* Aspires to create meaningful software that will help people
+* Interested in exploring multiple areas in IT such as devops, cloud, cybersecurity, and software development
 * Full-Time Student pursuing a Diploma in Information Technology
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jyorien&hide=javascript,css,scss,html&theme=tokyonight)
