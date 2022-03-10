@@ -2,9 +2,9 @@
 * Interested in exploring multiple areas in IT such as devops, cloud, cybersecurity, and software development
 * Full-Time Student pursuing a Diploma in Information Technology
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyorien&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyorien&show_icons=true&theme=github_dark&hide_border=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jyorien)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=jyorien&theme=github_dark&layout=compact&hide_border=true)
 
 # 🍄 Recent Activity 🍄
 * Currently building random things :)
