@@ -1,5 +1,5 @@
 # 🌼 About Me 🌼
-* Interested in exploring multiple areas in IT such as devops, cloud, cybersecurity, and software development
+* Interested in multiple areas in IT such as software engineering, cloud and devops
 * Full-Time Student pursuing a Diploma in Information Technology
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyorien&show_icons=true&theme=github_dark&hide_border=true)
