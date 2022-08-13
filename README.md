@@ -6,9 +6,6 @@
 
 ![GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=jyorien&theme=github_dark&layout=compact&hide_border=true)
 
-# 🍄 Recent Activity 🍄
-* Currently building random things :)
-
 # 🌻 Projects I've worked on 🌻
 * [GitCat](https://github.com/jyorien/GitCat) 
   * An app to feed your GitHub commits to GitCat
