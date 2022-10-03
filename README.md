@@ -13,13 +13,9 @@
   * Worked with animation in Android to make a cat sprite move around the screen
   * Purchase items and give them to GitCat to see her sit down and give you a heart :heart: 
  
-* [Laze](https://github.com/jyorien/Laze)
-  * An experiment with Jetpack Compose
-  * A fusion between TikTok and Carousell -- but for errands. 
-  * For lazy people, from a lazy person. 
-  * Swipe up to scroll to next errand
-  * Chat with the person that posted the errand
-  * CameraX API used for the camera
+* [DeskPet](https://github.com/jyorien/DeskPet) (WIP)
+  * Cat walking across your screen
+  * Pat the cat to feel loved (WIP)
   
 * [RunLah](https://github.com/jyorien/RunLah)
   * Run tracking app
