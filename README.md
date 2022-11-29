@@ -1,6 +1,6 @@
 # 🌼 About Me 🌼
-* Interested in multiple areas in IT such as software engineering, cloud and devops
-* Full-Time Student pursuing a Diploma in Information Technology
+* I mainly do mobile app development
+* Currently exploring other types of development
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyorien&show_icons=true&theme=github_dark&hide_border=true)
 
@@ -28,9 +28,6 @@
   * Android app developed in Kotlin
   * Explored Android Jetpack components such as Navigation and ViewModel
   * Explored the use of SQLite database with Room 
-  
-# 💮 In the near future I hope to.. 💮
-* Pass the AWS Certified Developer - Associate certification
 <!--
 **jyorien/jyorien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
